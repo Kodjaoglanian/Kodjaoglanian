@@ -1,7 +1,7 @@
 ![Texto apresentação](Hi!.png)
 
 
-### Olá! 👋 Meu nome é [Bruno Kodjaoglanian]  
+### Olá! 👋 Meu nome é Bruno Kodjaoglanian 
 
 #### Sou um desenvolvedor especializado em Python e PyQt6  
 
@@ -30,5 +30,5 @@ Sou um desenvolvedor comprometido em transformar desafios em soluções prática
 🚀 Sempre em busca de aprendizado e aprimoramento para criar soluções inovadoras!  
 
 📫 **Entre em contato comigo:**  
-- 🖥️ Contatos e projetos: [Meus links](https://seu-site.com](https://kodjaoglanian.github.io/MeusLinks/)  
+- 🖥️ Contatos e projetos: [Meus links](https://kodjaoglanian.github.io/MeusLinks/)  
 
