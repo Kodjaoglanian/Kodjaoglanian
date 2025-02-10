@@ -5,7 +5,8 @@
 
 #### Sou um desenvolvedor especializado em Python e PyQt6  
 
-Sou apaixonado por tecnologia, automação e desenvolvimento de sistemas eficientes. Atualmente, estou desenvolvendo um **Sistema de Gestão de Procedimentos Judiciais**, utilizando **PyQt6** para a interface gráfica e integração com a **API do GitHub** para manipulação de dados em CSV. Tenho experiência no uso de **Pandas** para análise e manipulação de dados, tornando processos mais ágeis e organizados.  
+Sou um desenvolvedor comprometido em transformar desafios em soluções práticas e eficientes. Tenho paixão por automação, interfaces gráficas e análise de dados, e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e entregar resultados impactantes.
+
 
 ### 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
@@ -29,5 +30,5 @@ Sou apaixonado por tecnologia, automação e desenvolvimento de sistemas eficien
 🚀 Sempre em busca de aprendizado e aprimoramento para criar soluções inovadoras!  
 
 📫 **Entre em contato comigo:**  
-- 🖥️ Contatos e projetos: [Meus links]([https://seu-site.com](https://kodjaoglanian.github.io/MeusLinks/))  
+- 🖥️ Contatos e projetos: [Meus links](https://seu-site.com](https://kodjaoglanian.github.io/MeusLinks/)  
 
