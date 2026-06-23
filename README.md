@@ -128,12 +128,19 @@ I'm driven by hard technical challenges and by shipping code others can read, ma
 
 ---
 
-### 📊 Activity & Languages
+### 📊 Languages & Activity
 
 <div>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kodjaoglanian&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodjaoglanian&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117"/>
 </div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kodjaoglanian/kodjaoglanian/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kodjaoglanian/kodjaoglanian/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodjaoglanian/kodjaoglanian/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
