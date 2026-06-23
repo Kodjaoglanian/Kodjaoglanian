@@ -147,4 +147,4 @@ I'm driven by hard technical challenges and by shipping code others can read, ma
 🚀 Always learning, always building.
 
 📫 **Get in touch:**
-- 🖥️ Links & projects: [My Links](https://kodjaoglanian.github.io/MeusLinks/)
+- 🖥️ Links & projects: [My Links](https://portfolio.kodjao.com)
