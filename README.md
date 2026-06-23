@@ -128,11 +128,11 @@ I'm driven by hard technical challenges and by shipping code others can read, ma
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Activity & Languages
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kodjaoglanian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodjaoglanian&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kodjaoglanian&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodjaoglanian&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117"/>
 </div>
 
 ---
@@ -140,4 +140,4 @@ I'm driven by hard technical challenges and by shipping code others can read, ma
 🚀 Always learning, always building.
 
 📫 **Get in touch:**
-- 🖥️ Links & projects: [My Links](https://portfolio.kodjao.com)
+- 🖥️ Links & projects: [My Links](https://kodjaoglanian.github.io/MeusLinks/)
